@@ -1,8 +1,8 @@
 Release Notes
 =============
 
-Version 0.15.dev0
------------------
+Version 0.15 (release date: 2017-04-xx)
+---------------------------------------
 
 New features:
 
